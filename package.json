@@ -18,5 +18,8 @@
   "homepage": "https://github.com/t9niro00/heroku-demo#readme",
   "dependencies": {
     "nodemon": "^2.0.13"
+  },
+  "engines": {
+    "node": "12.x"
   }
 }
